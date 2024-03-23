@@ -1,3 +1,3 @@
 # Recenzija_filmova
 
- korisnik može jednostavno dodavati filmove koje je pogledao i ocjenjivati ih na web platformi za recenziranje filmova. Omogućuje korisnicima da zabilježe svoje dojmove i preporuke
+ Korisnik može jednostavno dodavati filmove koje je pogledao i ocjenjivati ih na aplikaciji za recenziranje filmova koja omogućuje korisniku da zabilježi i sačuva svoje dojmove koje je stekao pri gledanju.
